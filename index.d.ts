@@ -6,6 +6,13 @@
 
 import { ComponentClass, ClassAttributes, StatelessComponent, ReactNode } from "react";
 
+export interface HSVColor {
+    a?: number;
+    h: number;
+    s: number;
+    v: number;
+}
+
 export interface HSLColor {
     a?: number;
     h: number;
