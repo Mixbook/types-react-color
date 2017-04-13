@@ -15,9 +15,6 @@
         "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
     },
     "scripts": {},
-    "dependencies": {
-        "@types/react": "*"
-    },
     "peerDependencies": {},
     "typesPublisherContentHash": "a04ea5c16337de838a05596b5b0ef26295dbb4d8f3b9eba1986aa2bbe4295b05",
     "typeScriptVersion": "2.1"
